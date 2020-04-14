@@ -1,6 +1,6 @@
 # Jogo de adivinhação
 
-#H3 Jogo de adivinhação para android, consiste em ter 3 cartas viradas, 2 delas são coringas e 1 é um ás, se a pessoa adivinhar onde está o ás ela ganha!
+### Jogo de adivinhação para android, consiste em ter 3 cartas viradas, 2 delas são coringas e 1 é um ás, se a pessoa adivinhar onde está o ás ela ganha!
 
  -Animações básicas para virar as cartas;
  
